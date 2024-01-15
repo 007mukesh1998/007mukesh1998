@@ -1,9 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://wallhaven.cc/w/2y39jy)
+[![MasterHead](https://contentstatic.techgig.com/thumb/msid-82256985,width-800,resizemode-4/Top-5-Frameworks-for-Java-Enterprise-Edition.jpg?36688)
 <h1 align="center">Hi 👋, I'm MUKESH KUMAR</h1>
 <h3 align="center">I AM PASSONATE JAVA DEVELOPER</h3>
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=007mukesh1998&label=Profile%20views&color=0e75b6&style=flat" alt="007mukesh1998" /> </p>
+<p align="left"> <img src=("https://komarev.com/ghpvc/?username=007mukesh1998&label=Profile%20views&color=0e75b6&style=flat" alt="007mukesh1998") /> </p>
 
 - 🌱 I’m currently learning **COLLECTIONS,DATA STRUCTURE, SPRINGBOOT**
 
@@ -30,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=007mukesh1998&show_icons=true&locale=en" alt="007mukesh1998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=007mukesh1998&" alt="007mukesh1998" /></p>
-
